@@ -1,2 +1,3 @@
 # Personal-Portfolio
-A web portfolio to show off my work
+
+This is the source code for a personal website that I am using to show of the applications that I produce on my own time.
