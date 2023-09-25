@@ -1,0 +1,9 @@
+.tc {
+    display: flex;
+    justify-content: center;
+    }
+
+p {
+    margin-right: 50px;
+    margin-left: 50px;
+}
